@@ -31,3 +31,6 @@ Connect a piece of wire (or male jumper) between the negative row and the 12 col
 
 **Step 6:** <br>
 Put the button between 10 and 12 column of the breadboard (Right Side)
+
+3 ) Set Up the Code:
+
