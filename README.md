@@ -44,7 +44,7 @@ Create a variable named "button" and attched the "Button(2)" value to it:
 button = Button(2)
 </pre>
 
-The 'button.wait_for_press()' method makes that the next line is going to run after pressing the button
+The 'button.wait_for_press()' method makes that the next line is going to run after pressing the button-keep on mind that this method is often use on a **while loop**
 <pre>
 button.wait_for_press()
 </pre>
