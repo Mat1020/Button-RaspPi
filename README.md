@@ -56,3 +56,9 @@ This Python script is looping forever, cheking if the button was pressed. When i
 
 ## Tutorial 2: Control a LED with the button
 ***Note:*** You're going to need the same **materials** and **steps** from Tutorial 1 for this tutorial.
+
+1 ) Materials:
+
+- 1x Female/Male Jumper
+- 1x Resistor 100 ohn
+- 1x LED
