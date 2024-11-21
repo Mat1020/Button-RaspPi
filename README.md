@@ -52,4 +52,4 @@ button.wait_for_press()
 4 ) My Program Examples:
 
 A. button_press.py <br>
-. . .
+This Python script is looping forever, cheking if the button was pressed. When it's pressed or it's being pressed, it will diplay a message.
