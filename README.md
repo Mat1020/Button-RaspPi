@@ -72,7 +72,7 @@ Connect the last male/female jumper to GPIO 17 pin
 Connect the GPIO 17 jumper to the positive row of the breadboard (Right Side)
 
 **Step 3:** <br>
-Connect your resistor between the positive row and the 40 column
+Connect your resistor between the positive row and the 40 column (Right Side)
 
 **Step 4:** <br>
-Grab your LED and connect it to the negetive row and to the 40 column of the breadboard (Right Side)
+Grab your LED and connect it to the negetive row and the 40 column of the breadboard (Right Side)
