@@ -27,7 +27,7 @@ Connect the GPIO 2 jumper to column 10 of the breadboard (Right Side)
 Connect the GND jumper to the negative row of the breadboard (Right Side)
 
 **Step 5:** <br>
-Connect a jumper between the negative row and the 12 column of the breadboard (Right Side)
+Connect a piece of wire (or male jumper) between the negative row and the 12 column of the breadboard (Right Side)
 
 **Step 6:** <br>
 Put the button between 10 and 12 column of the breadboard (Right Side)
