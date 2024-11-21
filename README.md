@@ -76,3 +76,26 @@ Connect your resistor between the positive row and the 40 column (Right Side)
 
 **Step 4:** <br>
 Grab your LED and connect it to the negetive row and the 40 column of the breadboard (Right Side)
+
+3 ) Set Up the Code:
+
+You need to import both LED and Button modules:
+<pre>
+from gpiozero import Button, LED
+</pre>
+
+Create a variable named "led" and attched "LED(17)" to it:
+<pre>
+led = LED(17)
+</pre>
+	
+Create amother variable named "button" and attach "Button(2)" to it:
+<pre>
+button = Button(2)
+</pre>
+
+To make the button turn on/off the LED, we can use the "led.toggle()" method:
+<pre>
+button.wait_for_press()
+led.toggle()
+</pre>
