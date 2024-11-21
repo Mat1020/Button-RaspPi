@@ -53,3 +53,6 @@ button.wait_for_press()
 
 A. button_press.py <br>
 This Python script is looping forever, cheking if the button was pressed. When it's pressed or it's being pressed; it will diplay a message and will sleep for 0.5 seconds.
+
+## Tutorial 2: Control a LED with the button
+***Note:*** You're going to need the same **materials** and **steps** for this tutorial.
