@@ -39,7 +39,7 @@ You need to import the Button module:
 from gpiozero import Button
 </pre>
 
-create a variable named "button" and attched "Button(2)" to it:
+Create a variable named "button" and attched the "Button(2)" value to it:
 <pre>
 button = Button(2)
 </pre>
