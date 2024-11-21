@@ -34,3 +34,17 @@ Put the button between 10 and 12 column of the breadboard (Right Side)
 
 3 ) Set Up the Code:
 
+You need to import the Button module:
+<pre>
+from gpiozero import Button
+</pre>
+
+create a variable named "button" and attched "Button(2)" to it:
+<pre>
+button = Button(2)
+</pre>
+
+The 'button.wait_for_press()' function:
+</pre>
+button.wait_for_press()    # The next lin below it will run BUT not until thebutton is pressed
+</pre>
