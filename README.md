@@ -84,17 +84,17 @@ You need to import both LED and Button modules:
 from gpiozero import Button, LED
 </pre>
 
-Create a variable named "led" and attched "LED(17)" to it:
+Create a variable named "led" and attched the "LED(17)" value to it:
 <pre>
 led = LED(17)
 </pre>
 	
-Create amother variable named "button" and attach "Button(2)" to it:
+Create amother variable named "button" and attach the "Button(2)" value to it:
 <pre>
 button = Button(2)
 </pre>
 
-To make the button turn on/off the LED, we can use the "led.toggle()" method:
+To make the button turn on and off the LED, we can use the "led.toggle()" method:
 <pre>
 button.wait_for_press()
 led.toggle()
