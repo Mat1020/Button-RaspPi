@@ -106,4 +106,4 @@ A. button_on_off.py <br>
 Simillar to "button_press.py" script, I added the LED module and variable; everytime the button is pressed or being pressed, it's printing a message and toggling the LED (on and off.) It has as well a 0.5 second delay to prevent rapid triggering. 
 
 B. button_released.py <br>
-. . .
+This Python scrit is using a module called **signal**; turning it on when the button is pressed and off when the button is released, running continuously (forever).
