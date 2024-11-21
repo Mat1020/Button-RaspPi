@@ -62,3 +62,17 @@ This Python script is looping forever, cheking if the button was pressed. When i
 - 1x Female/Male Jumper
 - 1x Resistor 100 ohn
 - 1x LED
+
+2 ) Bulding the Circuit:
+
+**Step 1:** <br>
+Connect the last male/female jumper to GPIO 17 pin
+
+**Step 2:** <br>
+Connect the GPIO 17 jumper to the positive row of the breadboard (Right Side)
+
+**Step 3:** <br>
+Connect your resistor between the positive row and the 40 column
+
+**Step 4:** <br>
+Grab your LED and connect it to the negetive row and to the 40 column of the breadboard (Right Side)
