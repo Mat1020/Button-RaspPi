@@ -11,3 +11,5 @@ A button is a small, flat, round odject that is pressed to activate a function i
 - Breadboard
 - Raspberry Pi
 - Micro SD Card
+
+2 ) Building the Circuit:
