@@ -103,7 +103,7 @@ led.toggle()
 4 ) My Program Examples:
 
 A. button_on_off.py <br>
-. . .
+Simillar to "button_press.py" script, I added the LED module and varible; everytime the button is pressed or being pressed, it's printing a message and toggling the LED (on and off.) It has as well a 0.5 second delay to prevent rapid triggering. 
 
 B. button_released.py <br>
 . . .
